@@ -13,7 +13,7 @@ Busco uma oportunidade que me permita aplicar meus conhecimentos em Desenvolvime
 
 ### 👨🏻‍🏭 Experiência Profissional
 
-Domtec - Estágiario em Desenvolvimento (fev/2026) - até o momento
+Domtec - Estágiario em Desenvolvimento (fev/2026) - Até o momento
 
 ---
 
