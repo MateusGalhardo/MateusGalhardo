@@ -5,26 +5,26 @@ Estudante de Ciência da Computação
 
 ---
 
-### :dart: Objetivo Profissional
+### 🎯 Objetivo Profissional
 
 Busco uma oportunidade que me permita aplicar meus conhecimentos em Desenvolvimento de Sistemas e adquirir experiência prática no mercado de trabalho, enquanto continuo meus estudos. Estou comprometido em contribuir de forma proativa, aplicar meus conhecimentos, aprender rapidamente novas tecnologias e agregar valor às equipes em que atuar.
 
 ---
 
-### :man_factory_worker_tone1: Experiência Profissional
+### 👨🏻‍🏭 Experiência Profissional
 
 Domtec - Estágiario em Desenvolvimento (fev/2026) - até o momento
 
 ---
 
-### :mortar_board: Formação Acadêmica
+### 🎓 Formação Acadêmica
 
 - Ensino Médio com Curso Técnico em Mecatrônica – ETEC Joaquim Ferreira do Amaral, Jaú-SP (2023 – 2025) – completo 
 - Bacharelado em Ciência da computação – União Sagrado Coração/USC (2026 – 2029) – Cursando
 
 ---
 
-### :tools: Competências Técnicas
+### 🛠️ Competências Técnicas
 
 <div style="display: inline_block">
   <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-3E80B7?style=for-the-badge&logo=mysql&logoColor=white">
@@ -37,7 +37,7 @@ Domtec - Estágiario em Desenvolvimento (fev/2026) - até o momento
 
 ---
 
-### :bulb: Habilidades Pessoais
+### 💡 Habilidades Pessoais
 
 - Boa comunicação e clareza na apresentação de projetos
 - Proatividade em projetos pessoais e acadêmicos
@@ -48,10 +48,10 @@ Domtec - Estágiario em Desenvolvimento (fev/2026) - até o momento
 
 ---
 
-### :earth_americas: Idiomas
+### 🌎 Idiomas
 
 - Inglês: Avançado  
 
 ---
 
-Made with :blue_heart: by Mateus Galhardo
+Made with 💙 by Mateus Galhardo
