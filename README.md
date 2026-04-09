@@ -20,7 +20,7 @@ Domtec - Estágiario em Desenvolvimento (fev/2026) - Até o momento
 ### 🎓 Formação Acadêmica
 
 - Ensino Médio com Curso Técnico em Mecatrônica – ETEC Joaquim Ferreira do Amaral, Jaú-SP (2023 – 2025) – Completo 
-- Bacharelado em Ciência da computação – União Sagrado Coração/USC (2026 – 2029) – Cursando
+- Bacharelado em Ciência da computação – Universidade do Sagrado Coração/USC (2026 – 2029) – Cursando
 
 ---
 
