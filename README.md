@@ -27,7 +27,6 @@ Domtec - Estágiario em Desenvolvimento (fev/2026) - Até o momento
 ### 🛠️ Competências Técnicas
 
 <div style="display: inline_block">
-  <img align="center" alt="MySQL"  src="https://img.shields.io/badge/MySQL-3E80B7?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white">
   
